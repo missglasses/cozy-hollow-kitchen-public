@@ -4,6 +4,9 @@ The Food Delivery System follows a cottagecore-inspired design, creating a warm 
 
 The concept originated from the idea that little critters feel safe and cozy inside a tree’s hollow — the same warmth and comfort our food brings to customers. Through soft visuals, earthy tones, and a welcoming interface, the app delivers not only meals but also a sense of home and comfort.
 
+--- 
+Source code is not publicly available.
+
 # 👥 Customer Features
 
   🍔 Browse food menu and categories 
